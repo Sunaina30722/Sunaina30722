@@ -1,68 +1,89 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sunaina;Web+Developer+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96;Creative+Coder+%F0%9F%92%96" />
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Sunaina</h1>
-<h3 align="center">A passionate Web Developer & AI Explorer from India</h3>
+---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Sunaina30722&label=Profile%20views&color=0e75b6&style=flat" alt="Sunaina30722" /> 
-</p>
+<div align="center">
 
-- 🔭 I’m currently working on **building interactive web applications**
+### 🌸 About Me 🌸
 
-- 🌱 I’m currently learning **AI tools, full-stack development, and modern web technologies**
+💻 Passionate about **Web Development & AI**  
+✨ Love building creative and interactive projects  
+🏆 **2× Hackathon Winner**  
+🌱 Currently learning **Full-Stack Development & AI Tools**  
+🎀 Enjoy experimenting, vibe coding & designing cool ideas  
+🚀 Turning imagination into real-world applications with code  
 
-- 👯 I’m looking to collaborate on **web development & AI-based projects**
+</div>
 
-- 🤝 I’m looking for help with **advanced development concepts & scaling projects**
+---
 
-- 🏆 **Hackathon Winner (2x)** – love building fast and solving real-world problems
+## 💌 Connect With Me
 
-- 💡 I enjoy **vibe coding** – building creatively with flow and experimentation
-
-- 🌐 Passionate about **Web Development**
-
-- 📫 How to reach me **sunainakandukuri12@gmail.com**
-
-- ⚡ **I learn by building and experimenting with new ideas 🚀**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Sunaina30722" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Sunaina30722" height="30" width="40" />
+
+<a href="https://github.com/Sunaina30722" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<a href="mailto:sunainakandukuri12@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a> 
+<a href="https://www.linkedin.com/in/sunaina-kandukuri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
 </p>
+
+---
+
+## 🌷 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,mysql,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Sunaina30722&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunaina30722&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+✨ Winner – XIM University Hackathon  
+✨ Winner – Harithon Eco Hackathon  
+✨ Built multiple web development & AI-based projects  
+✨ Exploring AI-powered creative applications  
+
+---
+
+## 🌸 Fun Quote
+
+<div align="center">
+
+> “Code, create, innovate, repeat 💖”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
+
+</div>
