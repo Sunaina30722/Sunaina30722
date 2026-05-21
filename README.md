@@ -41,7 +41,7 @@
 
 ---
 
-## 🌷 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -53,15 +53,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Sunaina30722&show_icons=true&theme=radical&hide_border=true"/>
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunaina30722&theme=radical&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunaina30722&show_icons=true" />
+</p>
 
 ## 🏆 Achievements
 
@@ -72,7 +66,6 @@
 
 ---
 
-## 🌸 Fun Quote
 
 <div align="center">
 
